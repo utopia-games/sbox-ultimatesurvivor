@@ -1,0 +1,20 @@
+{
+		"name": "ultimatesurvivor",
+		"sharedassets": "*.*",
+		
+		"depends": 
+		[
+			"base",
+			"citizen",
+			"rust"
+		],
+
+		"gamemodes":
+		[
+			{
+				"name": "ultimatesurvivor",
+				"title": "ultimatesurvivor",
+				"description": "The future best s&box gamemode."
+			}
+		]
+}
